@@ -14,7 +14,7 @@ A Python-based web scraper that gathers publicly available information about web
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/web-scraping-data-security.git
+    git clone https://github.com/aavila02/web-scraping-data-security.git
     cd web-scraping-data-security
     ```
 
